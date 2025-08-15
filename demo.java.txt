@@ -4,9 +4,13 @@ public class demo{
  {
 
        System.out.println("hello");
+
            int i=20;
            int j=30;
            int k=40
+
+      System.out.println("hi");
+
  }
 
 }
